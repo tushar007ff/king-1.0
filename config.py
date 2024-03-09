@@ -12,24 +12,24 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","Raxx_xt")
+OWNER_USERNAME = getenv("OWNER_USERNAME","itachi007ff")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "AnviXTRobot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "VIRU_BABY_BOT")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "Nexiko")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "AnviXTRobot")
-EVALOP = list(map(int, getenv("EVALOP", "6753468481 6412317889 6050277919").split()))
+EVALOP = list(map(int, getenv("EVALOP", "1826484283 6779439807 6973275248").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1001997761568))
+LOGGER_ID = int(getenv("LOGGER_ID", --1002126546106))
 
 # Get this value from  on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6753468481))
+OWNER_ID = int(getenv("OWNER_ID",1826484283 ))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -46,8 +46,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TeamX_TSupport")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Team_x_tSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dev_support07")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dev_support07")
 
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
 

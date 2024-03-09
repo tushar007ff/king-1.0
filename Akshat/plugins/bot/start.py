@@ -27,20 +27,20 @@ from strings import get_string
 
 
 
-YUMI_PICS = ["https://te.legra.ph/file/c7b417e5186f090f20ddc.jpg",
-"https://te.legra.ph/file/4c3e7b6d9e6fc73b262a3.jpg",
-"https://te.legra.ph/file/b883be797bca7b6145143.jpg",
-"https://te.legra.ph/file/c73f8a35f8aa649c3359c.jpg",
-"https://te.legra.ph/file/78a2b00c711518d6debdd.jpg",
-"https://te.legra.ph/file/5762c01d1864f61a652d1.jpg",
-"https://te.legra.ph/file/5791c32ba35eb4c22ee18.jpg",
-"https://te.legra.ph/file/4918a0f08e865a541e9c3.jpg",
-"https://te.legra.ph/file/029514a309c0beffb4d8c.jpg",
-"https://te.legra.ph/file/d35087e57b855bd80855e.jpg",
-"https://te.legra.ph/file/72d42a279a3a5a86f47e5.jpg",
-"https://te.legra.ph/file/12bca6e8d9850648b2ef6.jpg",
-"https://te.legra.ph/file/2db3cb1ea96e8c9c544b6.jpg",
-"https://te.legra.ph/file/a22bfbe6868d4bd56890c.jpg"]
+YUMI_PICS = ["https://telegra.ph/file/2589fd239983af77acf2e.jpg",
+"https://graph.org/file/db68a011cb650281425e9.jpg",
+"https://graph.org/file/6dd42119af32b7eadf8f9.jpg",
+"https://graph.org/file/351ac59f6f5b0e25c79c6.jpg",
+"https://telegra.ph/file/b5ca38c6bc71d4a611782.jpg",
+"https://graph.org/file/ae8ac6d6baea5c86e235f.jpg",
+"https://telegra.ph/file/c34a45de776a71615e63e.jpg",
+"https://telegra.ph/file/c5aa83c664f5193acfe17.jpg",
+"https://graph.org/file/c4d0a5531c5f7186efc2f.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg",
+"https://graph.org/file/2ca1329665b84621093b7.jpg"]
 
 
 
